@@ -1,0 +1,54 @@
+nav{
+    height: 100%;
+    width: 100%;
+    background:white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    align-content: center;
+}
+.gambar1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+.gambar2{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    margin-left: 5%;
+}
+.icon{
+    display: flex;
+    margin: 30px;
+}
+.gambar3{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    margin-left: 5%;
+}
+.gambar4{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    margin-left: 5%;
+}
+.container{
+
+}
+.tema{
+    border-radius: 20px;
+    position: relative;
+    margin: auto;
+    width: 90%;
+}
